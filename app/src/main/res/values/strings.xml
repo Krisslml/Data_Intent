@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Data_Navigation</string>
+    <string name="txtnameone">Name</string>
+    <string name="txtnametwo">Name</string>
+    <string name="Btnsend">Send</string>
+    <string name="Btnback">Back</string>
+</resources>
